@@ -1,0 +1,84 @@
+[
+  {
+    "category": "AGD",
+    "products": [
+      "FRIDGE",
+      "DISHWASHER",
+      "OVEN",
+      "MICROWAVE",
+      "WASHER",
+      "DRYER",
+      "INDUCTION HOB"
+    ]
+  },
+
+  {
+    "category": "FOOD",
+    "products": [
+      "WATER",
+      "BREAD",
+      "CEREAL",
+      "BANANA",
+      "HAM",
+      "CHEESE",
+      "CHICKEN",
+      "APPLE",
+      "MILK",
+      "JUICE",
+      "TEA",
+      "RICE",
+      "TOMATOES",
+      "LETTUCE"
+    ]
+  },
+  {
+    "category": "BOOKS",
+    "products": [
+      "The Lord of the Rings",
+      "Hobbit",
+      "It",
+      "Broken Glass",
+      "Harry Potter and the Goblet of Fire",
+      "The Girl With the Dragon Tattoo",
+      "Harvest",
+      "Gone Girl",
+      "The Underground Railroad",
+      "The Noonday Demon"
+    ]
+  },
+  {
+    "category": "CLOTHES",
+    "products": [
+      "TSHIRT",
+      "TROUSERS",
+      "CARDIGAN",
+      "JACKET",
+      "SHOES",
+      "HAT",
+      "SHIRT"
+    ]
+  },
+  {
+    "category": "PETS",
+    "products": [
+      "Cat food",
+      "Dog food",
+      "Dog toy",
+      "Cat toy",
+      "Leash",
+      "Collar"
+    ]
+  },
+  {
+    "category": "FURNITURE",
+    "products": [
+      "CHAIR",
+      "TABLE",
+      "DESK",
+      "WARDROBE",
+      "CUPBOARD",
+      "BED",
+      "DRAWER"
+    ]
+  }
+]

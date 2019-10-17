@@ -1,0 +1,26 @@
+[
+  {
+    "number": 1,
+    "productCategory": "AGD"
+  },
+  {
+    "number": 2,
+    "productCategory": "BOOKS"
+  },
+  {
+    "number": 3,
+    "productCategory": "CLOTHES"
+  },
+  {
+    "number": 4,
+    "productCategory": "FOOD"
+  },
+  {
+    "number": 5,
+    "productCategory": "FURNITURE"
+  },
+  {
+    "number": 6,
+    "productCategory": "PETS"
+  }
+]

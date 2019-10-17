@@ -1,0 +1,82 @@
+[
+  {
+    "firstName": "Enoch",
+    "lastName": "Tremblay",
+    "age": 43,
+    "cash": 1119.0,
+    "preferences": "516234",
+    "email": "enoch.tremblay@ntlworld.com"
+  },
+  {
+    "firstName": "Rolando",
+    "lastName": "Nicolas",
+    "age": 64,
+    "cash": 217.2,
+    "preferences": "362541",
+    "email": "rolando.nicolas@yahoo.com"
+  },
+  {
+    "firstName": "Daniell",
+    "lastName": "Spencer",
+    "age": 26,
+    "cash": 3522.2,
+    "preferences": "152364",
+    "email": "daniell.spencer@yahoo.com"
+  },
+  {
+    "firstName": "Carmelo",
+    "lastName": "Effertz",
+    "age": 49,
+    "cash": 2666.0,
+    "preferences": "452613",
+    "email": "carmelo.effertz@gmail.com"
+  },
+  {
+    "firstName": "Yong",
+    "lastName": "Mertz",
+    "age": 49,
+    "cash": 530.9,
+    "preferences": "156324",
+    "email": "yong.mertz@gmail.com"
+  },
+  {
+    "firstName": "Domingo",
+    "lastName": "Carroll",
+    "age": 69,
+    "cash": 3179.4,
+    "preferences": "612345",
+    "email": "domingo.carroll@aol.com"
+  },
+  {
+    "firstName": "Myrl",
+    "lastName": "Kovacek",
+    "age": 48,
+    "cash": 2349.4,
+    "preferences": "614523",
+    "email": "myrl.kovacek@msn.com"
+  },
+  {
+    "firstName": "Jamaal",
+    "lastName": "Kohler",
+    "age": 54,
+    "cash": 1937.6,
+    "preferences": "652431",
+    "email": "jamaal.kohler@gmail.com"
+  },
+  {
+    "firstName": "Inger",
+    "lastName": "Jakubowski",
+    "age": 58,
+    "cash": 3155.0,
+    "preferences": "426153",
+    "email": "inger.jakubowski@comcast.net"
+  },
+  {
+    "firstName": "Marlin",
+    "lastName": "Grimes",
+    "age": 43,
+    "cash": 4088.1,
+    "preferences": "563412",
+    "email": "marlin.grimes@msn.com"
+  }
+]

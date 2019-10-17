@@ -1,0 +1,402 @@
+[
+  {
+    "quantity": 1,
+    "product": {
+      "name": "CHAIR",
+      "price": 806.0,
+      "category": "FURNITURE"
+    }
+  },
+  {
+    "quantity": 2,
+    "product": {
+      "name": "Leash",
+      "price": 15.1,
+      "category": "PETS"
+    }
+  },
+  {
+    "quantity": 1,
+    "product": {
+      "name": "The Noonday Demon",
+      "price": 47.2,
+      "category": "BOOKS"
+    }
+  },
+  {
+    "quantity": 1,
+    "product": {
+      "name": "DRYER",
+      "price": 1594.9,
+      "category": "AGD"
+    }
+  },
+  {
+    "quantity": 1,
+    "product": {
+      "name": "Gone Girl",
+      "price": 23.6,
+      "category": "BOOKS"
+    }
+  },
+  {
+    "quantity": 3,
+    "product": {
+      "name": "Leash",
+      "price": 31.5,
+      "category": "PETS"
+    }
+  },
+  {
+    "quantity": 2,
+    "product": {
+      "name": "LETTUCE",
+      "price": 6.4,
+      "category": "FOOD"
+    }
+  },
+  {
+    "quantity": 3,
+    "product": {
+      "name": "JACKET",
+      "price": 75.9,
+      "category": "CLOTHES"
+    }
+  },
+  {
+    "quantity": 1,
+    "product": {
+      "name": "DRYER",
+      "price": 2466.2,
+      "category": "AGD"
+    }
+  },
+  {
+    "quantity": 2,
+    "product": {
+      "name": "DRAWER",
+      "price": 342.1,
+      "category": "FURNITURE"
+    }
+  },
+  {
+    "quantity": 5,
+    "product": {
+      "name": "CHEESE",
+      "price": 2.8,
+      "category": "FOOD"
+    }
+  },
+  {
+    "quantity": 1,
+    "product": {
+      "name": "WASHER",
+      "price": 2124.2,
+      "category": "AGD"
+    }
+  },
+  {
+    "quantity": 1,
+    "product": {
+      "name": "TROUSERS",
+      "price": 77.2,
+      "category": "CLOTHES"
+    }
+  },
+  {
+    "quantity": 1,
+    "product": {
+      "name": "CUPBOARD",
+      "price": 226.0,
+      "category": "FURNITURE"
+    }
+  },
+  {
+    "quantity": 2,
+    "product": {
+      "name": "APPLE",
+      "price": 6.1,
+      "category": "FOOD"
+    }
+  },
+  {
+    "quantity": 3,
+    "product": {
+      "name": "BANANA",
+      "price": 6.3,
+      "category": "FOOD"
+    }
+  },
+  {
+    "quantity": 1,
+    "product": {
+      "name": "TROUSERS",
+      "price": 158.4,
+      "category": "CLOTHES"
+    }
+  },
+  {
+    "quantity": 1,
+    "product": {
+      "name": "DRYER",
+      "price": 1997.5,
+      "category": "AGD"
+    }
+  },
+  {
+    "quantity": 1,
+    "product": {
+      "name": "The Noonday Demon",
+      "price": 35.0,
+      "category": "BOOKS"
+    }
+  },
+  {
+    "quantity": 1,
+    "product": {
+      "name": "Hobbit",
+      "price": 42.2,
+      "category": "BOOKS"
+    }
+  },
+  {
+    "quantity": 3,
+    "product": {
+      "name": "Dog food",
+      "price": 23.0,
+      "category": "PETS"
+    }
+  },
+  {
+    "quantity": 1,
+    "product": {
+      "name": "The Girl With the Dragon Tattoo",
+      "price": 22.7,
+      "category": "BOOKS"
+    }
+  },
+  {
+    "quantity": 2,
+    "product": {
+      "name": "Collar",
+      "price": 36.4,
+      "category": "PETS"
+    }
+  },
+  {
+    "quantity": 4,
+    "product": {
+      "name": "TEA",
+      "price": 3.4,
+      "category": "FOOD"
+    }
+  },
+  {
+    "quantity": 2,
+    "product": {
+      "name": "JACKET",
+      "price": 126.4,
+      "category": "CLOTHES"
+    }
+  },
+  {
+    "quantity": 1,
+    "product": {
+      "name": "Hobbit",
+      "price": 37.3,
+      "category": "BOOKS"
+    }
+  },
+  {
+    "quantity": 3,
+    "product": {
+      "name": "Dog toy",
+      "price": 36.7,
+      "category": "PETS"
+    }
+  },
+  {
+    "quantity": 2,
+    "product": {
+      "name": "Leash",
+      "price": 21.1,
+      "category": "PETS"
+    }
+  },
+  {
+    "quantity": 1,
+    "product": {
+      "name": "DRYER",
+      "price": 2317.9,
+      "category": "AGD"
+    }
+  },
+  {
+    "quantity": 2,
+    "product": {
+      "name": "CHAIR",
+      "price": 648.1,
+      "category": "FURNITURE"
+    }
+  },
+  {
+    "quantity": 1,
+    "product": {
+      "name": "LETTUCE",
+      "price": 6.7,
+      "category": "FOOD"
+    }
+  },
+  {
+    "quantity": 1,
+    "product": {
+      "name": "The Noonday Demon",
+      "price": 22.1,
+      "category": "BOOKS"
+    }
+  },
+  {
+    "quantity": 4,
+    "product": {
+      "name": "TSHIRT",
+      "price": 132.9,
+      "category": "CLOTHES"
+    }
+  },
+  {
+    "quantity": 1,
+    "product": {
+      "name": "TEA",
+      "price": 3.2,
+      "category": "FOOD"
+    }
+  },
+  {
+    "quantity": 1,
+    "product": {
+      "name": "Harvest",
+      "price": 30.1,
+      "category": "BOOKS"
+    }
+  },
+  {
+    "quantity": 1,
+    "product": {
+      "name": "WARDROBE",
+      "price": 1082.7,
+      "category": "FURNITURE"
+    }
+  },
+  {
+    "quantity": 3,
+    "product": {
+      "name": "CHAIR",
+      "price": 1151.4,
+      "category": "FURNITURE"
+    }
+  },
+  {
+    "quantity": 1,
+    "product": {
+      "name": "WASHER",
+      "price": 1431.9,
+      "category": "AGD"
+    }
+  },
+  {
+    "quantity": 1,
+    "product": {
+      "name": "CARDIGAN",
+      "price": 121.4,
+      "category": "CLOTHES"
+    }
+  },
+  {
+    "quantity": 1,
+    "product": {
+      "name": "The Underground Railroad",
+      "price": 55.3,
+      "category": "BOOKS"
+    }
+  },
+  {
+    "quantity": 1,
+    "product": {
+      "name": "The Girl With the Dragon Tattoo",
+      "price": 33.2,
+      "category": "BOOKS"
+    }
+  },
+  {
+    "quantity": 2,
+    "product": {
+      "name": "Leash",
+      "price": 38.4,
+      "category": "PETS"
+    }
+  },
+  {
+    "quantity": 4,
+    "product": {
+      "name": "SHIRT",
+      "price": 208.9,
+      "category": "CLOTHES"
+    }
+  },
+  {
+    "quantity": 1,
+    "product": {
+      "name": "DISHWASHER",
+      "price": 1031.4,
+      "category": "AGD"
+    }
+  },
+  {
+    "quantity": 4,
+    "product": {
+      "name": "RICE",
+      "price": 6.3,
+      "category": "FOOD"
+    }
+  },
+  {
+    "quantity": 1,
+    "product": {
+      "name": "Gone Girl",
+      "price": 47.0,
+      "category": "BOOKS"
+    }
+  },
+  {
+    "quantity": 1,
+    "product": {
+      "name": "Harvest",
+      "price": 42.1,
+      "category": "BOOKS"
+    }
+  },
+  {
+    "quantity": 3,
+    "product": {
+      "name": "TSHIRT",
+      "price": 132.8,
+      "category": "CLOTHES"
+    }
+  },
+  {
+    "quantity": 3,
+    "product": {
+      "name": "SHOES",
+      "price": 100.4,
+      "category": "CLOTHES"
+    }
+  },
+  {
+    "quantity": 1,
+    "product": {
+      "name": "HAT",
+      "price": 90.4,
+      "category": "CLOTHES"
+    }
+  }
+]
