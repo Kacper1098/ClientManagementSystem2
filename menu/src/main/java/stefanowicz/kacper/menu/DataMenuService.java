@@ -13,7 +13,7 @@ public class DataMenuService {
                 switch (option){
                     case 1 -> {
                         var dataGenerator = new DataGeneratorService();
-                        dataGenerator.generateNewFiles(UserDataService.getInt("Enter number of clients to generate: "), UserDataService.getInt("Eneter number of products to generate: "));
+                        dataGenerator.generateNewFiles(UserDataService.getInt("Enter number of clients to generate: "), UserDataService.getInt("Enter number of products to generate: "));
                         return;
                     }
                     case 2 ->{ return;}
